@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zevorixnet.play.hosting",
-    "port": 64671,
+    "ip": "zevorixnetwork.aternos.me",
+    "port": 40030,
     "version": "1.20.1",
     "try-creative": false
   },
