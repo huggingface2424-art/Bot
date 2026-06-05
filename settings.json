@@ -1,4 +1,4 @@
-{
+f{
   "name": "AFK Bot",
   "bot-account": {
     "username": "zevoriz",
@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zevorixnetwork.aternos.me",
-    "port": 40030,
+    "ip": "zenithmcs1.play.minekube.net",
+    "port": 64863,
     "version": "1.20.1",
     "try-creative": false
   },
