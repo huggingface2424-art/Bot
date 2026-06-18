@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "zenithmcs1.play.minekube.net",
-    "port": 64863,
+    "ip": "hypermsp.aternos.me",
+    "port": 59044,
     "version": "1.20.1",
     "try-creative": false
   },
